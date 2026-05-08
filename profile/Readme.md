@@ -1,7 +1,7 @@
 # Covera Insurance Software
 
 <p align="center">
-  <img src="https://www.covera.co.ke/logo.png" alt="Covera Insurance Software Logo" width="220" />
+  <img src="https://avatars.githubusercontent.com/u/282913756?s=400&u=7723dc6b834b5d323c083321cd742109462f6511&v=4" alt="Covera Insurance Software Logo" width="220" />
 </p>
 
 <p align="center">
